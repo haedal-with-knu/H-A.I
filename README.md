@@ -5,8 +5,10 @@
 인공지능 함께 공부하자  
 [ArtificiaI Intelligence Introduction](Lecture/AI_intro.md)  
 [Machine Learning Algorithms](Lecture/ML.md)   
-[Neural Network](Lecture/Neural_Network.md)   
+[Origin of Neural Network](Lecture/Neural_Network.md)   
+[Development Neural Netowrk](Lecture/NN_Development.md)  
 [Flow of Machine Learning](Lecture/Flow%20of%20Machine%20Learning.md)  
+[Overfitting](Lecture/Overfitting.md)
 
 
 ### Project
